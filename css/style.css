@@ -1,0 +1,89 @@
+.share{
+  color:#0084b4;
+  text-align:center;
+}
+.images{
+ width:25px;
+}
+
+.navBtn{
+  margin-right:10px;
+  
+}
+
+body{
+  background-image:url('https://s21.postimg.org/ajmlehemv/1920x1200-data_out_45_3881137-big-data-wallpaper.jpg');
+
+  
+  
+}
+
+.dispBox{
+ background-color:black;
+  width:;
+  padding:50px;
+  margin-left:auto;
+  margin-right:auto;
+  color:white;
+  border-radius:15px;
+  opacity:.70; 
+  padding:2%; 
+  text-align:center;
+}
+
+.spacer{
+  padding:5%;
+}
+
+.infobox{
+  background-color:black;
+  opacity:.55;
+  text-align:center;
+  color:white;
+}
+
+.temp{
+  text-align:center;
+  color:white;
+}
+
+.index{
+  display:inline;
+}
+
+p{
+  text-align:left;
+  text-size:10px;
+}
+
+li{
+  text-align:left;
+}
+
+
+.dispBox1{
+  text-align:left;
+ background-color:black;
+  width:80%;
+  padding:50px;
+  margin-left:auto;
+  margin-right:auto;
+  color:white;
+  border-radius:15px;
+  opacity:.70; 
+  padding:2%; 
+  text-align:center;
+}
+
+
+.contact{
+  text-align:left;
+  color:white;
+}
+
+.navbottom{
+  opacity:.70;
+  background-color:black;
+  margin-bottom:0;
+  
+}
